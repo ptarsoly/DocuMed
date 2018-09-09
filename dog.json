@@ -1,0 +1,152 @@
+[
+    {
+        "partnerId": 1,
+        "dcClassificationId": "89",
+        "classid": "89",
+        "name": "Concession Stand (no cooking)",
+        "description": "Food and Beverage (Services and Supplies)",
+        "tags": "Popcorn#Pretzels#Nachos#Snow Cones#Cotton Candy#Corn Dogs#Pretzels#Ice Cream#Pre-Cooked/Store-Bought Concessions# Soft Pretzels# Roasted Nuts#Pre-Made Sandwiches#Brownies And Other Baked Goods#Store-Bought#Candy Bars#Sour Candy#Lollipops# Beef Jerky# Soda (cans)#Bottled Water#Iced Tea / Lemonade#########",
+        "active": true,
+        "states": null,
+        "premiumBasis": "GrSales",
+        "classebyproduct": [
+            {
+                "product": "BOP",
+                "classid": "175",
+                "classcode": "5812"
+            },
+            {
+                "product": "MPL",
+                "classid": "0",
+                "classcode": "0"
+            },
+            {
+                "product": "CYBER",
+                "classid": null,
+                "classcode": "42003"
+            }
+        ],
+        "id": "331a6880-88a6-44ef-9062-5cc27b2a0801",
+        "type": "Class"
+    },
+    {
+        "partnerId": 1,
+        "dcClassificationId": "113",
+        "classid": "113",
+        "name": "Deli (without cooking)",
+        "description": "Food and Beverage (Services and Supplies)",
+        "tags": "Pastrami#Corned Beef#Turkey Breast#Corned Tongue Brisket#Corned Beef#Hot Dogs#Hamburger#Pastrami Bottom Round#Pastrami First Cut#Pastrami Navel#Roasted Beef#Oven Roasted Turkey Breast#Slow-Roasted Brisket#Deli Tag and Accessories#Heated Display Cases and Deli Cases#Counter Top Hot Food Display Warmer#Plastic Flatware#Packaging Containers/Boxes############",
+        "active": true,
+        "states": null,
+        "premiumBasis": "GrSales",
+        "classebyproduct": [
+            {
+                "product": "BOP",
+                "classid": "43",
+                "classcode": "5411"
+            },
+            {
+                "product": "MPL",
+                "classid": "0",
+                "classcode": "0"
+            },
+            {
+                "product": "CYBER",
+                "classid": null,
+                "classcode": "42003"
+            }
+        ],
+        "id": "44af38b2-088b-4911-888d-d5048e98a6d0",
+        "type": "Class"
+    },
+    {
+        "partnerId": 1,
+        "dcClassificationId": "129",
+        "classid": "129",
+        "name": "Drug Store - with Food",
+        "description": "Convenience, Grocery, Drug Store",
+        "tags": "Soda Fountain#Food Counter#Hot Dogs#Chips#Sandwich#Subs& Salads#Soup#Milkshake#Burgers#####################",
+        "active": true,
+        "states": null,
+        "premiumBasis": "GrSales",
+        "classebyproduct": [
+            {
+                "product": "BOP",
+                "classid": "342",
+                "classcode": "5912"
+            },
+            {
+                "product": "MPL",
+                "classid": "0",
+                "classcode": "0"
+            },
+            {
+                "product": "CYBER",
+                "classid": null,
+                "classcode": "80001"
+            }
+        ],
+        "id": "b0aa6e98-0aa1-4c77-9feb-03c6fb692cfc",
+        "type": "Class"
+    },
+    {
+        "partnerId": 1,
+        "dcClassificationId": "172",
+        "classid": "172",
+        "name": "Flower Shop",
+        "description": "Flowers and Gardening",
+        "tags": "Occasion#Floral Bouquets#Flower Crown#Flower Basket#Custom Arrangement#Bridal Fresh flower Bouquet#Wreaths#Delivery#Vases#Containers#Bowl & Vase Filler#Clay Pots & Saucers#Mason Jars#################",
+        "active": true,
+        "states": null,
+        "premiumBasis": "GrSales",
+        "classebyproduct": [
+            {
+                "product": "BOP",
+                "classid": "49",
+                "classcode": "5992"
+            },
+            {
+                "product": "MPL",
+                "classid": "0",
+                "classcode": "0"
+            },
+            {
+                "product": "CYBER",
+                "classid": null,
+                "classcode": "41001"
+            }
+        ],
+        "id": "a422334e-0294-489d-a10c-321ab7edccaf",
+        "type": "Class"
+    },
+    {
+        "partnerId": 1,
+        "dcClassificationId": "399",
+        "classid": "399",
+        "name": "Pretzel Shop",
+        "description": "Food and Beverage (Services and Supplies)",
+        "tags": "Pretzels#Mini Pretzels#Freshly Baked Traditional Pretzels#Soft Pretzels#Pretzels Nuggets#Pretzels Dogs#Pretzel Party Trays#######################",
+        "active": true,
+        "states": null,
+        "premiumBasis": "GrSales",
+        "classebyproduct": [
+            {
+                "product": "BOP",
+                "classid": "229",
+                "classcode": "5461"
+            },
+            {
+                "product": "MPL",
+                "classid": "0",
+                "classcode": "0"
+            },
+            {
+                "product": "CYBER",
+                "classid": null,
+                "classcode": "42003"
+            }
+        ],
+        "id": "e7b34572-5e78-4cc7-bc63-78c74393008c",
+        "type": "Class"
+    }
+]

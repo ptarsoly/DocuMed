@@ -1,0 +1,31 @@
+{
+    "identifier": "prescription",
+    "PatientInfo": {
+        "FirstName": "Sample",
+        "LastName": "Sample",
+        "Address": "Sample",
+        "City": "Sample",
+        "State": "Sample",
+        "ZipCode": "Sample",
+        "Country": "Sample"
+    },
+    "DocAndInsuranceInfo": {
+        "DoctorName": "John Doe",
+        "Insurer": "Cheap Insurance"
+    },
+    "PhoneNumbers": {
+        "PatientPhone": "123-555-4567",
+        "DoctorPhone": "123-555-4567",
+        "InsurerPhone": "888-555-4567"
+    },
+    "Emails": {
+        "PatientEmail": "unhealthyPerson@hotmail.com",
+        "DoctorEmail": "doctorDoe@gmail.com",
+        "InsurerEmail": "prescriptions@cheapInsurance.com"
+    },
+    "IDSpecificInfo": {
+        "Medication": "Sample",
+        "Dosage": "25 mg",
+        "IntervalOfUse": "months"
+    }
+}
